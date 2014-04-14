@@ -4,7 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = u'cnsworder'
 SITENAME = u'Linux Developer'
-SITEURL = ''
+#SITEURL = ''
+SITEURL = 'http://docs.cnsworder.com'
 
 TIMEZONE = 'Asia/Shanghai'
 
@@ -29,6 +30,11 @@ DEFAULT_PAGINATION = 20
 
 STATIC_PATHS = ([u'highlight', u'img'])
 
+DISQUS_SITENAME = u"cnsworder"
 
+GITHUB_URL = u'http://github.com/cnsworder/staticdocs'
+
+#THEME = "pelican-bootstrap3"
+THEME = "bootstrap2"
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

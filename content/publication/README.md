@@ -1,8 +1,7 @@
-Title: 说明
+Title: 订阅说明
 Date: 2014-04-14
+Author: cnsworder
 
-说明
-===========
 1. 使用Markdown来编写
 2. 面向群成员内部订阅
 3. 主要以分享知识和资源为主

@@ -1,28 +1,21 @@
 Title: Linux Developer Alpha5
-Date: 2014-04-14
+Date: 2014-04-24
+Author: 江湖郎中
 
-<link rel="stylesheet" href="http://ssh.cnsworder.com/styles/monokai_sublime.css" />
-<script type="text/javascript" src="http://ssh.cnsworder.com/highlight.pack.js"></script>
+<link rel="stylesheet" href="http://ssh.cnsworder.com/highlight/styles/monokai_sublime.css" />
+<script type="text/javascript" src="http://ssh.cnsworder.com/highlight/highlight.pack.js"></script>
 <script type="text/javascript">
     hljs.initHighlightingOnLoad();
 </script>
 
-![Tux](http://ssh.cnsworder.com/img/tux.png)
-
-GNU/Linux Developer
-==============================================================  
-
-**Version: Aplha5**  
-**kernel stable： 3.13**  
 **QQ群号： 20506135**  
 **微信号： linux_developer**  
-**本期编辑： 江湖郎中**  
 
 《GNU/Linux Developer》第**Aplha5**期和大家见面了，本期*我*将为大家带来专题**Linux init系统介绍**。  
 
 
 本期专题：Linux init系统介绍
------------
+------------------------------------------
 **作者：[江湖郎中](#tj)**  
 
 我手上的版本有archlinux、fedora20、debian7、centos6我主要以以上这些版本为例来描述，BSD init以上版本默认都没有了，所以无法验证，描述很可能有漏洞。其中archlinux、fedora20使用systemd，debian7使用system V init，centOS6使用upstart。 

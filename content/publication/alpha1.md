@@ -1,16 +1,15 @@
 Title: Linux Developer Alpha1
-Date: 2013-11-12
-Author: 郎中
+Date: 2013-12-24
+Author: 江湖郎中
+Category: publication
+Tag: ArchLinux
 
-<link rel="stylesheet" href="http://ssh.cnsworder.com/styles/monokai_sublime.css" />
-<script type="text/javascript" src="http://ssh.cnsworder.com/highlight.pack.js"></script>
+<link rel="stylesheet" href="http://ssh.cnsworder.com/highlight/styles/monokai_sublime.css" />
+<script type="text/javascript" src="http://ssh.cnsworder.com/highlight/highlight.pack.js"></script>
 <script type="text/javascript">
     hljs.initHighlightingOnLoad();
 </script>
 
-![GNU/Linux](https://www.kernel.org/theme/images/logos/tux.png)GNU/Linux Developer
-======
-kernel stable:3.12.5  
 QQ群号：20506135  
 本期编辑：江湖郎中
 
