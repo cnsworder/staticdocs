@@ -3,10 +3,10 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'cnsworder'
-SITENAME = u'linux developer'
+SITENAME = u'Linux Developer'
 SITEURL = ''
 
-TIMEZONE = 'Aisa/Shanghai'
+TIMEZONE = 'Asia/Shanghai'
 
 DEFAULT_LANG = u'zh'
 

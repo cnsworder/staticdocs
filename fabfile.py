@@ -6,9 +6,11 @@ import os
 env.deploy_path = 'output'
 DEPLOY_PATH = env.deploy_path
 
+SRC_PATH = 'content'
+
 # Remote server configuration
 production = 'root@cnsworder.com:22'
-dest_path = '/var/www'
+dest_path = '/usr/share/nginx/www'
 
 # Rackspace Cloud Files configuration settings
 env.cloudfiles_username = 'my_rackspace_username'
@@ -22,7 +24,7 @@ def clean():
         local('mkdir {deploy_path}'.format(**env))
 
 def build():
-    local('pelican -s pelicanconf.py')
+    local('pelican content/ -s pelicanconf.py')
 
 def rebuild():
     clean()
@@ -51,7 +53,7 @@ def cf_upload():
 
 @hosts(production)
 def publish():
-    local('pelican -s publishconf.py')
+    local('pelican content/ -s publishconf.py')
     project.rsync_project(
         remote_dir=dest_path,
         exclude=".DS_Store",
