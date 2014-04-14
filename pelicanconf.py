@@ -18,12 +18,12 @@ TRANSLATION_FEED_ATOM = None
 # Blogroll
 LINKS =  (('Pelican', 'http://getpelican.com/'),
           ('Python.org', 'http://python.org/'),
-          ('Jinja2', 'http://jinja.pocoo.org/'),
-          ('You can modify those links in your config file', '#'),)
+          ('cnsworder', 'http://cnsworder.com'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('twitter', 'https://twitter.com/cnsworder'),
+          ('github', 'https://github.com/cnsworder'),
+          ('google+', 'https://plus.google.com/u/0/106278662052013132197/posts/p/pub'),)
 
 DEFAULT_PAGINATION = 20
 

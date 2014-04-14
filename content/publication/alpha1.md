@@ -1,3 +1,7 @@
+Title: Linux Developer Alpha1
+Date: 2013-11-12
+Author: 郎中
+
 <link rel="stylesheet" href="http://ssh.cnsworder.com/styles/monokai_sublime.css" />
 <script type="text/javascript" src="http://ssh.cnsworder.com/highlight.pack.js"></script>
 <script type="text/javascript">

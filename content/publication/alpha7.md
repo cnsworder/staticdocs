@@ -1,3 +1,6 @@
+Title: Linux Developer Alpha7
+Date: 2014-04-14
+
 <link rel="stylesheet" href="http://ssh.cnsworder.com/styles/monokai_sublime.css" />
 <script type="text/javascript" src="http://ssh.cnsworder.com/highlight.pack.js"></script>
 <script type="text/javascript">
