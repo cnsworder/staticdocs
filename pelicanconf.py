@@ -18,7 +18,7 @@ TRANSLATION_FEED_ATOM = None
 # Blogroll
 LINKS =  (('Pelican', 'http://getpelican.com/'),
           ('Python.org', 'http://python.org/'),
-          ('cnsworder', 'http://cnsworder.com'),)
+          (u'问答', 'http://cnsworder.com'),)
 
 # Social widget
 SOCIAL = (('twitter', 'https://twitter.com/cnsworder'),
@@ -26,6 +26,9 @@ SOCIAL = (('twitter', 'https://twitter.com/cnsworder'),
           ('google+', 'https://plus.google.com/u/0/106278662052013132197/posts/p/pub'),)
 
 DEFAULT_PAGINATION = 20
+
+STATIC_PATHS = ([u'highlight', u'img'])
+
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
