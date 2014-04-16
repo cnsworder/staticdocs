@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'cnsworder'
 SITENAME = u'Linux Developer'
 #SITEURL = ''
-SITEURL = 'http://docs.cnsworder.com'
+#SITEURL = 'http://docs.cnsworder.com'
 
 TIMEZONE = 'Asia/Shanghai'
 
@@ -35,6 +35,7 @@ STATIC_PATHS = ([u'highlight', u'img', u'publication/image'])
 #FILES_TO_COPY = (('publication/image/*', 'img/'),);
 
 DISQUS_SITENAME = u"cnsworder"
+#DISQUS_NO_ID = True
 
 GITHUB_URL = u'http://github.com/cnsworder/staticdocs'
 

@@ -1,5 +1,5 @@
 Title: 订阅说明
-Date: 2014-04-14
+Date: 2013-11-14
 Author: cnsworder
 
 1. 使用Markdown来编写
@@ -13,6 +13,6 @@ Author: cnsworder
 9. 开放编辑，托管在github上
 
 QQ群：20506135  
-![QQ群](image/qq.png)  
+![QQ群](publication/image/qq.png)  
 微信号：linux_developer [Linux开发]  
-![微信](image/weixin.jpg)  
+![微信](publication/image/weixin.jpg)  
