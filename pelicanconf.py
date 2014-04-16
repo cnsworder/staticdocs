@@ -28,7 +28,9 @@ SOCIAL = (('twitter', 'https://twitter.com/cnsworder'),
 
 DEFAULT_PAGINATION = 20
 
-STATIC_PATHS = ([u'highlight', u'img'])
+STATIC_PATHS = ([u'highlight', u'img', u'publication/image'])
+
+#FILES_TO_COPY = (('publication/image/*', 'img/'),);
 
 DISQUS_SITENAME = u"cnsworder"
 
