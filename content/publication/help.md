@@ -2,7 +2,7 @@ Title: Markdown帮助
 Date: 2013-11-14
 Author: cnsworder
 Category: help
-Tag: markdown
+Tags: markdown
 
 Markdown
 ===================

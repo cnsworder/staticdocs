@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'cnsworder'
 SITENAME = u'Linux Developer'
 #SITEURL = ''
-#SITEURL = 'http://docs.cnsworder.com'
+SITEURL = 'http://docs.cnsworder.com'
 
 TIMEZONE = 'Asia/Shanghai'
 
@@ -40,6 +40,7 @@ DISQUS_SITENAME = u"cnsworder"
 GITHUB_URL = u'http://github.com/cnsworder/staticdocs'
 
 #THEME = "pelican-bootstrap3"
-THEME = "bootstrap2"
+THEME = "pelican-octopress-theme"
+#THEME = "bootstrap2"
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

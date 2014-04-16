@@ -1,6 +1,7 @@
 Title: Linux Developer Alpha4
 Date: 2014-03-24
 Author: 猫猫
+Tags: Android, bigdata
 
 <link rel="stylesheet" href="http://ssh.cnsworder.com/hightlight/styles/monokai_sublime.css" />
 <script type="text/javascript" src="http://ssh.cnsworder.com/highlight/highlight.pack.js"></script>

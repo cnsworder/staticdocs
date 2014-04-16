@@ -1,8 +1,8 @@
 Title: Linux Developer Alpha2
 Date: 2014-01-22
 Author: 猫猫
-Categroy: publication
-Tag: Python
+Category: publication
+Tags: Python
 
 <link rel="stylesheet" href="http://ssh.cnsworder.com/highlight/styles/monokai_sublime.css" />
 <script type="text/javascript" src="http://ssh.cnsworder.com/highlight/highlight.pack.js"></script>

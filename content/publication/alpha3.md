@@ -1,6 +1,7 @@
 Title: Linux Developer Alpha3
 Date: 2014-02-24
 Author: 猫猫
+Tags: C++, Python
 
 <link rel="stylesheet" href="http://ssh.cnsworder.com/highlight/styles/monokai_sublime.css" />
 <script type="text/javascript" src="http://ssh.cnsworder.com/highlight/highlight.pack.js"></script>

@@ -4,7 +4,7 @@ reStructedText 帮助
 :Date: 2013-11-14
 :Author: cnsworder
 :Category: help
-:Tag: rst
+:Tags: rst
 
 reStructedText是Python的标准文档格式。
 

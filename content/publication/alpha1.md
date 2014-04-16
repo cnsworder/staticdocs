@@ -2,7 +2,7 @@ Title: Linux Developer Alpha1
 Date: 2013-12-24
 Author: 江湖郎中
 Category: publication
-Tag: ArchLinux
+Tags: ArchLinux
 
 <link rel="stylesheet" href="http://ssh.cnsworder.com/highlight/styles/monokai_sublime.css" />
 <script type="text/javascript" src="http://ssh.cnsworder.com/highlight/highlight.pack.js"></script>

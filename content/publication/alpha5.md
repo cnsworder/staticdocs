@@ -1,6 +1,7 @@
 Title: Linux Developer Alpha5
 Date: 2014-04-24
 Author: 江湖郎中
+Tags: Linux, Python
 
 <link rel="stylesheet" href="http://docs.cnsworder.com/styles/monokai_sublime.css" />
 <script type="text/javascript" src="http://docs.cnsworder.com/highlight.pack.js"></script>
