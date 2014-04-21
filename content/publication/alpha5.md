@@ -2,6 +2,7 @@ Title: Linux Developer Alpha5
 Date: 2014-04-24
 Category: publication
 Tags:Linux, Python
+
 <link rel="stylesheet" href="http://docs.cnsworder.com/styles/monokai_sublime.css" />
 <script type="text/javascript" src="http://docs.cnsworder.com/highlight.pack.js"></script>
 <script type="text/javascript">
@@ -11,8 +12,7 @@ Tags:Linux, Python
 **微信号： linux_developer**  
 **主编: 猫猫**  
 **本期编辑： 江湖郎中**  
-
-《GNU/Linux Developer》第**Aplha5**期和大家见面了，本期*我*将为大家带来专题**Linux init系统介绍**。  
+《GNU/Linux Developer》第**Aplha5**期和大家见面了，本期 *我* 将为大家带来专题 **Linux init系统介绍** 和 **flask--kiss之美** ， ownone 将继续 **web.py** 之旅。
 
 
 本期专题：Linux init系统介绍
@@ -518,7 +518,7 @@ uwsgi的配置文件支持xml、ini、yaml，个人感觉xml太繁琐了，ini�
 #flask.yaml
 uwsgi:
   pythonpath: /opt/flask_test
-  module run.py
+  module: run.py
   callable: app
   processes: 5
   socket: /tmp/flask.socket
