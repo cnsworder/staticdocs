@@ -1,13 +1,12 @@
+Title: Linux Developer Alpha5
+Date: 2014-04-24
+Category: publication
+Tags:Linux, Python
 <link rel="stylesheet" href="http://docs.cnsworder.com/styles/monokai_sublime.css" />
 <script type="text/javascript" src="http://docs.cnsworder.com/highlight.pack.js"></script>
 <script type="text/javascript">
     hljs.initHighlightingOnLoad();
 </script>
-
-GNU/Linux Developer
-==============================================================  
-
-**Version: Aplha5**  
 **QQ群号： 20506135**  
 **微信号： linux_developer**  
 **主编: 猫猫**  

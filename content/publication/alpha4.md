@@ -1,14 +1,13 @@
-<link rel="stylesheet" href="http://ssh.cnsworder.com/styles/monokai_sublime.css" />
-<script type="text/javascript" src="http://ssh.cnsworder.com/highlight.pack.js"></script>
+Title: Linux Developer Alpha4
+Date: 2014-03-24
+Author: 猫猫
+Tags: Android, bigdata
+
+<link rel="stylesheet" href="http://ssh.cnsworder.com/hightlight/styles/monokai_sublime.css" />
+<script type="text/javascript" src="http://ssh.cnsworder.com/highlight/highlight.pack.js"></script>
 <script type="text/javascript">
     hljs.initHighlightingOnLoad();
 </script>
-
-GNU/Linux Developer
-==============================================================  
-![Tux](http://ssh.cnsworder.com/img/tux.png)  
-**Alpha4**   
-**主编: 猫猫**  
 
 **微信号: linux_developer**   
 **QQ群号: 20506135**   
