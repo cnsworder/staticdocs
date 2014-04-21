@@ -1,23 +1,23 @@
-Title: Linux Developer Alpha3
-Date: 2014-02-24
-Author: 猫猫
-Tags: C++, Python
-
-<link rel="stylesheet" href="http://ssh.cnsworder.com/highlight/styles/monokai_sublime.css" />
-<script type="text/javascript" src="http://ssh.cnsworder.com/highlight/highlight.pack.js"></script>
+<link rel="stylesheet" href="http://ssh.cnsworder.com/styles/monokai_sublime.css" />
+<script type="text/javascript" src="http://ssh.cnsworder.com/highlight.pack.js"></script>
 <script type="text/javascript">
     hljs.initHighlightingOnLoad();
 </script>
 
+GNU/Linux Developer
+==============================================================  
+![Tux](http://ssh.cnsworder.com/img/tux.png)  
+**Alpha3**  
 **kernel stable： 3.13**  
 **QQ群号： 20506135**  
 **微信号： linux_developer**  
+**本期编辑： 猫猫**  
 **专题作者： onwone**  
 
 《GNU/Linux Developer》第Alpha3期在春节后和大家见面了，本期**onwone**有**《C/C++编译系统》**、**《web.py分析(一)》**两个专题和大家分享。     
 
 前言
-========
+====
 
 工作了有N多年了，在GIS圈(其实关注于3D)转了又转5年了，但是有点忙忙碌碌，但是又不知道忙了些什么，至今无房无车。于是甚为消极。2013年于是决定好好的工作，挣钱。现在也为了提高自己，将自己知道的一些东西分享给大家。   
 
@@ -52,7 +52,7 @@ C/C++的编译过程和Makefile
 
 对于C/C++的编译的过程可以分成很多细节。
 可以看图  
-![Alt text](http://docs.cnsworder.com/publication/image/compile_process.jpg)
+![Alt text](http://ssh.cnsworder.com/img/compile_process.jpg)
 
 
 真实的情况只是很简单的场景，我们不是在汇编课上，需要使用gcc生成汇编语言来完成我们的作业。 

@@ -1,17 +1,19 @@
-Title: Linux Developer Alpha2
-Date: 2014-01-22
-Author: 猫猫
-Category: publication
-Tags: Python
-
-<link rel="stylesheet" href="http://ssh.cnsworder.com/highlight/styles/monokai_sublime.css" />
-<script type="text/javascript" src="http://ssh.cnsworder.com/highlight/highlight.pack.js"></script>
+<link rel="stylesheet" href="http://ssh.cnsworder.com/styles/monokai_sublime.css" />
+<script type="text/javascript" src="http://ssh.cnsworder.com/highlight.pack.js"></script>
 <script type="text/javascript">
     hljs.initHighlightingOnLoad();
 </script>
 
+![Tux](http://ssh.cnsworder.com/img/tux.png)
+
+GNU/Linux Developer
+==============================================================  
+
+**Aplha2**  
+**kernel stable： 3.13**  
 **QQ群号： 20506135**  
 **微信号： linux_developer**  
+**本期编辑： 猫猫**  
 
 《GNU/Linux Developer》第**Aplha2**期在春节前和大家见面了，本期*唯一*将为大家带来专题**使用Python构建简易推荐系统**。  
 
