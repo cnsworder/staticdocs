@@ -1,11 +1,10 @@
+===========================
 第Alpha1期
-=========================
+===========================
 :Author: 江湖郎中
 :Date: 2013-11-24
 :Category: Linux
 :Tags: ArchLinux
-
-:QQ群号: 20506135
 
 
 很荣幸的向各位Linux开发QQ群的成员宣布《GNU/Linux Developer》第\ **alpha1**\ 期发布了！   

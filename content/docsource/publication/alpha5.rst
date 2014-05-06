@@ -4,9 +4,6 @@
 :Date: 2013-11-24
 :Category: publication
 :Tags: Python, Linux
-:QQ群号: 20506135  
-:微信号: linux_developer  
-:专题作者: onwone 江湖郎中 
 
 《GNU/Linux Developer》第 **Aplha5** 期和大家见面了，本期 *郎中* 将为大家带来专题 **Linux init系统介绍** 和 **flask--kiss之美**, *ownone* 继续 **web.py** 之旅 。  
 
@@ -30,25 +27,25 @@ Linux init系统介绍
     
     efi启动模式下的boot目录如下图：  
 
-.. image:: http://docs.cnsworder.com/publication/image/boot_2.png
+//.. image:: http://docs.cnsworder.com/publication/image/boot_2.png
 
 
     bios启动模式下的boot目录如下图：  
 
-.. image:: http://docs.cnsworder.com/publication/image/boot_5.png 
+//.. image:: http://docs.cnsworder.com/publication/image/boot_5.png 
 
     
     vimlinuz-linux是kernel指令加载的kernel文件，initramfs-linux.publication/image是initrd指令加载的ramfs文件。
 
     efi目录如下图：  
 
-.. image:: http://docs.cnsworder.com/publication/image/boot_3.png
+//.. image:: http://docs.cnsworder.com/publication/image/boot_3.png
 
     efi目录是挂载的一个fat文件系统的分区。包括了可以被UEFI加载的多个efi文件。
     
     grub加载的配置如下图:  
 
-.. image:: http://docs.cnsworder.com/publication/image/boot_4.png
+//.. image:: http://docs.cnsworder.com/publication/image/boot_4.png
 
 + 开发板
     开发板上电后会从norflash或者nandflash上的某个位置来读取bootload，然后由bootload加载内核到内存，内核直接开始运行。在3.0以后的arm linux上kernel会从flash的某个位置读取LDS来加载板载资源的配置信息。  

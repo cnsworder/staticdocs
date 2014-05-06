@@ -1,12 +1,10 @@
+==============================================================
 第Alpha3期
 ==============================================================  
 :Author: 猫猫
 :Date: 2013-11-24
 :Category: publication
-:Tags: Python,C/C++
-:QQ群号: 20506135  
-:微信号: linux_developer  
-:专题作者: onwone  
+:Tags: Python, C/C++
 
 《GNU/Linux Developer》第 **Aplha3** 期在春节后和大家见面了，本期 **onwone** 有 **《C/C++编译系统》** 、 **《web.py分析(一)》** 两个专题和大家分享。     
 
@@ -49,7 +47,7 @@ C/C++的编译过程和Makefile
 
 对于C/C++的编译的过程可以分成很多细节。可以看图  
 
-.. image:: http://docs.cnsworder.com/img/compile_process.jpg
+//.. image:: http://docs.cnsworder.com/img/compile_process.jpg
 
 
 真实的情况只是很简单的场景，我们不是在汇编课上，需要使用gcc生成汇编语言来完成我们的作业。 
@@ -389,7 +387,7 @@ Tip
 
 作者简介
 --------
-.. image:: http://docs.cnsworder.com/img/ownone.jpg
+//.. image:: http://docs.cnsworder.com/img/ownone.jpg
 
 :网名: ownone  
 :群ID: [北京]Num1*  

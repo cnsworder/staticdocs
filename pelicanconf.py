@@ -22,7 +22,8 @@ FEED_DOMAIN = SITEURL
 # Blogroll
 LINKS =  (('Pelican', 'http://getpelican.com/'),
           ('Python.org', 'http://python.org/'),
-          (u'问答', 'http://cnsworder.com'),)
+          (u'问答', 'http://cnsworder.com'),
+          (u'缘起', "http://blog.csdn.net/cnsword"))
 
 # Social widget
 SOCIAL = (('twitter', 'https://twitter.com/cnsworder'),

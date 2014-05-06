@@ -4,9 +4,6 @@
 :Date: 2013-11-24
 :Category: publication
 :Tags: Python, Linux
-:QQ群号: 20506135  
-:微信号: linux_developer  
-:专题作者: 九州 猫猫
 
 《GNU/Linux Developer》第Alpha4期在春风中来了，本期 **九州** 有 **大数据** 、 **android系统编译和定制** 两个专题和大家分享，另外由于*ownone*工作太忙了 **web.py** 的专题将会在4月份继续和大家见面，这期 **猫猫** 会给大家带来HD2 **不死鸟传说** 的专题分享。
 因为群成员发展迅速，大家商量了一下决定，分设四个专题群来分别讨论问题:
