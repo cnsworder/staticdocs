@@ -1,0 +1,5 @@
+*.pid
+*.pyc
+output/*
+env/*
+pelican-themes/*
