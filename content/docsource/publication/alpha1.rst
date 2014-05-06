@@ -2,7 +2,7 @@
 第Alpha1期
 ===========================
 :Author: 江湖郎中
-:Date: 2013-11-24
+:Date: 2013-12-24
 :Category: Linux
 :Tags: ArchLinux
 

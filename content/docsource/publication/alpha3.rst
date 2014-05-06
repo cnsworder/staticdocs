@@ -2,7 +2,7 @@
 第Alpha3期
 ==============================================================  
 :Author: 猫猫
-:Date: 2013-11-24
+:Date: 2014-02-24
 :Category: publication
 :Tags: Python, C/C++
 
