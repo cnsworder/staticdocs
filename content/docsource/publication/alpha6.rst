@@ -1,12 +1,15 @@
-第6期
+第Alpha6期
 ==============================================================  
-:Author: cnsworder, 猫猫, 唯一
+:Author: cnsworder
 :Date: 2014-06-03
 :Category: publication
 :Tags: git
-:QQ群号: 20506135  
-:微信号: linux_developer  
-:主编: 猫猫
+
+**QQ群号: 20506135**
+
+**微信号: linux_developer**  
+
+**主编: 猫猫**
 
 《GNU/Linux Developer》第**Aplha6**期和大家见面了，本期 *我们* 将会给大家带来 ``git`` 的相关专题。  
 
@@ -158,7 +161,7 @@ git-flow这个工具可以帮助你完成这个过程。 ``git flow`` 命令帮�
 
 你的使用过程如下:
 
-.. image:: http://danielkummer.github.io/git-flow-cheatsheet/img/git-flow-commands.png
+.. image:: http://docs.cnsworder.com/img/git-flow-commands.png
 
 使用git来完成敏捷开发的闭环
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -236,7 +239,7 @@ git gui
 1. 在空目录中列出来的右键菜单
 """""""""""""""""""""""""""""""""
 
-.. image:: http://docs.cnsworder.com/img/git/01.png)
+.. image:: http://docs.cnsworder.com/img/git/01.png
 
 仅仅是因为Git中checkout变成了clone而已，其他部分很大程度的保持了一样。
 2. 在已经存在版本信息的目录中的右键菜单
