@@ -137,7 +137,7 @@ git仅仅是一个分布式版本管理系统，但是它却改进的却不仅�
 git flow
 ^^^^^^^^^^^^^^^^^^^^
 
-.. image:: http://docs.cnsworder.com/img/flow.png
+.. image:: http://docs.cnsworder.com/img/git/flow.png
 
 我们看图说话。
 
@@ -161,7 +161,7 @@ git-flow这个工具可以帮助你完成这个过程。 ``git flow`` 命令帮�
 
 你的使用过程如下:
 
-.. image:: http://docs.cnsworder.com/img/git-flow-commands.png
+.. image:: http://docs.cnsworder.com/img/git/git-flow-commands.png
 
 使用git来完成敏捷开发的闭环
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -242,15 +242,19 @@ git gui
 .. image:: http://docs.cnsworder.com/img/git/01.png
 
 仅仅是因为Git中checkout变成了clone而已，其他部分很大程度的保持了一样。
+
 2. 在已经存在版本信息的目录中的右键菜单
 """"""""""""""""""""""""""""""""""""""""""""""
+
 .. image:: http://docs.cnsworder.com/img/git/05.png
+
 .. image:: http://docs.cnsworder.com/img/git/06.png
 
 3. 已经存在版本控制信息的目录中的详细菜单
 """""""""""""""""""""""""""""""""""""""""""""""
 
 .. image:: http://docs.cnsworder.com/img/git/02.png
+
 .. image:: http://docs.cnsworder.com/img/git/03.png
 
 通过以上几张图的比较可以看出，虽然其实仔细看会发现工作原理和流程是完全不同的，但是同样的这个系列的工具延续使用下来，从TortoiseSVN换到TortoiseGit基本不会感到有任何的不适应。
@@ -429,26 +433,27 @@ Tip
 分支合并冲突
 ^^^^^^^^^^^^^^^^^^^^
 
-1. `git merge` 发生冲突
-2. 修改，并`git add <file>;git commit -m "messge"`提交
+1. ``git merge`` 发生冲突
+2. 修改，并 ``git add <file>;git commit -m "messge"`` 提交
 
 演合冲突
 ^^^^^^^^^^^^^^^^^^^^
 
-1. `git rebase master`发生冲突
-2. 修改，并`git add <file>`
-3. `git rebase --continue`继续演合
+1. ``git rebase master`` 发生冲突
+2. 修改，并 ``git add <file>`` 
+3. ``git rebase --continue`` 继续演合
 
 
 本地有未提交的代码拉取远程代码
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-+ ``git stash``
-+ ``git pull``
-+ ``git stash apply``
++ ``git stash`` 
++ ``git pull`` 
++ ``git stash apply`` 
 
+- - - - -
 
-- - - -
 欢迎群成员自荐自己的blog文章和收集的资源，发 `邮件 <mailto:cnsworder@gmail.com>` 给我，如果有意见或建议都可以mail我。  
+
 如果无法直接在邮件内查看，请访问 `github上的页面 <https://github.com/cnsworder/publication/blob/master/alpha6.md>` 或 `网站 <http://docs.cnsworder.com>` 。  
 我们在github上开放编辑希望大家能参与到其中。
