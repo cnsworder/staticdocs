@@ -304,15 +304,14 @@ vim
 emacs
 ~~~~~~~~~~~~~~~~~~~
 
-``speedbar`` 默认是在frame意外打开的，``sr-speedbar`` 插件可以将其集成到frame中
+``speedbar`` 默认是在frame意外打开的， ``sr-speedbar`` 插件可以将其集成到frame中
 
 shell
 ~~~~~~~~~~~~~~
 
 ``Ctrl+x Ctrl+e`` 可以快速打开编辑器
 
- 
-----------------------------
-欢迎群成员自荐自己的blog文章和收集的资源，发[邮件](mailto:cnsworder@gmail.com)给我，如果有意见或建议都可以mail我。  
-如果无法直接在邮件内查看，请访问[github上的页面](https://github.com/cnsworder/publication/blob/master/alpha7.md)或[网站](http://ssh.cnsworder.com/)。  
+
+欢迎群成员自荐自己的blog文章和收集的资源，发 `邮件 <mailto:cnsworder@gmail.com>`_ 给我，如果有意见或建议都可以mail我。  
+如果无法直接在邮件内查看，请访问 `github上的页面 <https://github.com/cnsworder/publication/blob/master/alpha7.md>`_ 或 `网站 <http://ssh.cnsworder.com/>`_ 。  
 我们在github上开放编辑希望大家能参与到其中。
